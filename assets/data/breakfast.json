@@ -1,0 +1,8 @@
+{
+  "breakfast":
+  [
+    {"name": "Bacon and Eggs", "price": 4.99, "calories": 500},
+    {"name": "Omelet", "price": 5.99, "calories": 650},
+    {"name": "Pancakes", "price": 3.99, "calories": 750}
+  ]
+}

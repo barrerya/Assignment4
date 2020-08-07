@@ -1,0 +1,8 @@
+{
+  "lunch":
+  [
+    {"name": "Grilled Cheese", "price": 5.49, "calories": 550},
+    {"name": "BLT", "price": 3.99, "calories": 450},
+    {"name": "Chicken Soup", "price": 4.99, "calories": 700}
+  ]
+}
